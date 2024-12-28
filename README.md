@@ -25,7 +25,6 @@ Live preview available here: https://fractals-set.vercel.app/
 ![Mandelbrot Screenshot](<Images/Screenshot 2024-12-28 220602.png>)
 ![Mandelbrot Screenshot](<Images/Screenshot 2024-12-28 220833.png>)
 ![Mandelbrot Screenshot](<Images/Screenshot 2024-12-28 220804.png>)
-[//]: # (will add this soon)
 
 ## Installation
 1. Clone the repository:
